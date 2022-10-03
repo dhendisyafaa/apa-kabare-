@@ -1,3 +1,5 @@
 dhendi: haiii
 
 orang-kedua: hallo, salam kenal!
+
+dhendi: salken juga..
