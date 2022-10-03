@@ -5,3 +5,5 @@ orang-kedua: hallo, salam kenal!
 dhendi: salken juga..
 
 orang_kedua: awikwok
+
+dhendi: wkwkwk
